@@ -41,7 +41,9 @@ Start/Pause functionality for the simulation
 ## GIF Video Demonstration
 
 
-https://github.com/ViRoLam/SimplePendulum/assets/137409570/6a8e2eec-3128-41f2-9f88-81eb12c1768f
+
+
+https://github.com/ViRoLam/SimplePendulum/assets/137409570/3f9b1f25-0066-4034-8606-c08af6b825b1
 
 
 
