@@ -17,7 +17,9 @@ Clone the repository or download the ZIP file.
 Extract the files to your local machine.
 Install the required Python libraries using pip:
 
-```pip install matplotlib tkinter numpy scipy```
+```
+pip install matplotlib tkinter numpy scipy
+```
 
 ## Usage
 To run the simulation, navigate to the project directory and execute:
