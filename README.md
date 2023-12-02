@@ -38,6 +38,11 @@ Phase portrait generation
 Customizable parameters such as gravity and damping
 Start/Pause functionality for the simulation
 
+## GIF Video Demonstration
+![pendulum](https://github.com/ViRoLam/SimplePendulum/assets/137409570/6b8dd1b5-76d8-4f09-b5f6-27e377e9bf47)
+
+
+
 
 ## Credits
 This app was created by the team:
