@@ -1,15 +1,50 @@
 # SimplePendulum
 A simple pendulum visualization app written in python
 
-This project is the project of the first week of the CentraleSupelec Coding weeks. We'll be focusing on creating and simulating a pendulum.
+## Introduction
+This project is a simulation app created using Python with matplotlib and tkinter. It was developed as part of the coding weeks at École CentraleSupélec. The application provides a dynamic visual representation of a pendulum system, allowing users to adjust various parameters like the number of pendulums, gravity, and damping. Additionally, it displays kinetic and potential energy graphs, as well as phase portraits for the pendulum system.
+
+## Installation
+### Prerequisites
+Python 3.x
+Matplotlib library
+Tkinter library
+Scipy library
+Numpy library
+
+### Setup
+Clone the repository or download the ZIP file.
+Extract the files to your local machine.
+Install the required Python libraries using pip:
+
+```pip install matplotlib tkinter numpy scipy```
+
+## Usage
+To run the simulation, navigate to the project directory and execute:
+
+```
+python pendulum_app.py
+```
+
+Adjust the simulation parameters using the provided sliders and controls within the application's interface.
+
+## Features
+Adjustable number of pendulums
+Real-time simulation of pendulum motion
+Kinetic and potential energy visualization
+Phase portrait generation
+Customizable parameters such as gravity and damping
+Start/Pause functionality for the simulation
 
 
-
-## The team:
-- Victor
+## Credits
+This app was created by the team:
 - Julia 
 - Mehdi 
 - Evan 
 - Erwann 
-- Samip 
+- Samip
+- Victor (me)
+
+
 
