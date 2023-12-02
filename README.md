@@ -39,7 +39,11 @@ Customizable parameters such as gravity and damping
 Start/Pause functionality for the simulation
 
 ## GIF Video Demonstration
-![pendulum](https://github.com/ViRoLam/SimplePendulum/assets/137409570/6b8dd1b5-76d8-4f09-b5f6-27e377e9bf47)
+
+
+https://github.com/ViRoLam/SimplePendulum/assets/137409570/6a8e2eec-3128-41f2-9f88-81eb12c1768f
+
+
 
 
 
